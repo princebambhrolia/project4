@@ -3,7 +3,6 @@
 int main() {
     int a = 5; 
     int b = 11; 
-
   
     for (int i = 1; i <= a; ++i) {
         
@@ -13,6 +12,5 @@ int main() {
         }
         printf("\n"); 
     }
-
-    
+   
 }
